@@ -1,6 +1,6 @@
 
 ### What is it
-BigHouse is an adhoc team of 2 people (FrikiCode) that wanted to take on some challenges 
+An adhoc team of 2 people (FrikiCode) wanted to take on some challenges 
 that they were facing in their lives. So the BigHouse project was initiated to 
 address those challenges. 
 
