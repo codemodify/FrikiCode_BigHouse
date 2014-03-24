@@ -11,5 +11,5 @@ We went to the Paris 2012 hackathon with this
 
 ### Samples
 ![](https://raw.github.com/ukoreh/FrikiCode_BigHouse/master/frikicode-bighouse1.png)
-![](https://raw.github.com/ukoreh/FrikiCode_BigHouse/master/frikicode-bighouse1.png)
-![](https://raw.github.com/ukoreh/FrikiCode_BigHouse/master/frikicode-bighouse1.png)
+![](https://raw.github.com/ukoreh/FrikiCode_BigHouse/master/frikicode-bighouse2.png)
+![](https://raw.github.com/ukoreh/FrikiCode_BigHouse/master/frikicode-bighouse3.png)
