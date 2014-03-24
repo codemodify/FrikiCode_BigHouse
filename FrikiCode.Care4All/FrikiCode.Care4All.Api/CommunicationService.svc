@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FrikiCode.Care4All.Api.CommunicationService" CodeBehind="CommunicationService.svc.cs" %>

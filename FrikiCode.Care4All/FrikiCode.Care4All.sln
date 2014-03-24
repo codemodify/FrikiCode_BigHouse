@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "FrikiCode.Care4All", "FrikiCode.Care4All\FrikiCode.Care4All.ccproj", "{01BECED0-5E6F-4464-AE6D-DD4BAA9359F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrikiCode.Care4All.Api", "FrikiCode.Care4All.Api\FrikiCode.Care4All.Api.csproj", "{87782B39-EBB5-4A00-8A30-236FCDA106E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrikiCode.Care4All.WebUi", "FrikiCode.Care4All.WebUi\FrikiCode.Care4All.WebUi.csproj", "{8AE54EAD-0784-4BD5-BEE8-F93C97952E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrikiCode.Care4All.Model", "FrikiCode.Care4All.Model\FrikiCode.Care4All.Model.csproj", "{7B6B5E54-D0E6-497B-8B66-08851FDC4B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrikiCode.Care4All.Contracts", "FrikiCode.Care4All.Contracts\FrikiCode.Care4All.Contracts.csproj", "{6DEB5020-68A0-4F1A-B48E-B5779741F7F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BECED0-5E6F-4464-AE6D-DD4BAA9359F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BECED0-5E6F-4464-AE6D-DD4BAA9359F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BECED0-5E6F-4464-AE6D-DD4BAA9359F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BECED0-5E6F-4464-AE6D-DD4BAA9359F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87782B39-EBB5-4A00-8A30-236FCDA106E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87782B39-EBB5-4A00-8A30-236FCDA106E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87782B39-EBB5-4A00-8A30-236FCDA106E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87782B39-EBB5-4A00-8A30-236FCDA106E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE54EAD-0784-4BD5-BEE8-F93C97952E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE54EAD-0784-4BD5-BEE8-F93C97952E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE54EAD-0784-4BD5-BEE8-F93C97952E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE54EAD-0784-4BD5-BEE8-F93C97952E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6B5E54-D0E6-497B-8B66-08851FDC4B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6B5E54-D0E6-497B-8B66-08851FDC4B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6B5E54-D0E6-497B-8B66-08851FDC4B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6B5E54-D0E6-497B-8B66-08851FDC4B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEB5020-68A0-4F1A-B48E-B5779741F7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEB5020-68A0-4F1A-B48E-B5779741F7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEB5020-68A0-4F1A-B48E-B5779741F7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEB5020-68A0-4F1A-B48E-B5779741F7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
